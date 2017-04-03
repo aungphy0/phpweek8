@@ -16,4 +16,8 @@ URL : https://35.184.68.96
   
  <img src='http://i.imgur.com/U2rXSCr.gif'/>
  
+3.SQL Injection:
+  Blue site has the SQLI vulnerability because it has been tested with the sqli blind 
+  injection and it pause 5 seconds. 
+ 
  
