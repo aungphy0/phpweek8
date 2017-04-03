@@ -23,6 +23,17 @@ URL : https://35.184.68.96
   
 <img src='http://i.imgur.com/EfRLcVe.gif'/>
 
+4.Cross Site Scripting: 
+
+
+5.Cross Site Request Forgery:
+
+
+6.Session Hijacking/Fixation: 
+
+
+
+
 
  
  
