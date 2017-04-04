@@ -1,7 +1,7 @@
 # phpweek8
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: 30 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -26,9 +26,11 @@ Vulnerability #2: Session Hijacking/Fixation
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Scripting (XSS)
+
+<img src='http://i.imgur.com/MYECHd3.gif'/>
 
 
 ## Red
@@ -42,7 +44,7 @@ Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+XSS, CSRF and Session Hijacking are hard to figure it out and very challenging. 
 
 
 
