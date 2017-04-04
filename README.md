@@ -33,9 +33,11 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Request Forgery (CSRF)
+
+<img src='http://i.imgur.com/ARh2hAZ.gif'/>
 
 
 ## Notes
