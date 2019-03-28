@@ -1,7 +1,7 @@
 # phpweek8
 # Project 8 - Pentesting Live Targets
 
-Time spent: 30 hours spent in total
+Time spent: 4.5 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection (SQLI)
 
-Vulnerability #2: Session Hijacking/Fixation 
+Vulnerability #2: Session Hijacking/Fixation
 
 <img src='http://i.imgur.com/lUgRdo9.gif'/>
 
@@ -44,11 +44,4 @@ Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
 ## Notes
 
-XSS, CSRF and Session Hijacking are hard to figure it out and very challenging. 
-
-
-
-
-
- 
- 
+XSS, CSRF and Session Hijacking are hard to figure it out and very challenging.
